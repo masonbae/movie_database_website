@@ -37,7 +37,8 @@ A modern, responsive movie discovery application built with React and powered by
 
 ## 📸 Screenshots
 
-*[Add screenshots of your application here]*
+<img width="1826" height="980" alt="image" src="https://github.com/user-attachments/assets/21b03a23-6ae2-4859-88cb-acdc98e9a9ce" />
+
 
 ## 🏗️ Architecture & Design Patterns
 
